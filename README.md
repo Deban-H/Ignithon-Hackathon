@@ -22,7 +22,7 @@ Today's students and lifelong learners are overwhelmed. They have access to infi
 
 EduBridge acts as a personal educational concierge and a collaborative network. We don't just provide content; we provide **context, direction, and connection**.
 
-#### **🔍 Core Features & Technical Highlights:**
+#### ** Core Features & Technical Highlights:**
 
 *   **Personalized Learning DNA:**
     *   Upon signing up, users create a dynamic "**Skill Genome**" profile.
