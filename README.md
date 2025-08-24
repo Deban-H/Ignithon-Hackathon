@@ -1,7 +1,5 @@
 # Ignithon-Hackathon
-Of course! Here is a more comprehensive and compelling description for your EduBridge project, perfect for a hackathon showcase, demo, or portfolio.
 
----
 
 ### **EduBridge: The Intelligent Gateway to Future-Ready Education**
 
